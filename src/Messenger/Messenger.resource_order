@@ -26,6 +26,7 @@
     {"name":"o_block","order":3,"path":"objects/o_block/o_block.yy",},
     {"name":"spr_player_up","order":4,"path":"sprites/spr_player_up/spr_player_up.yy",},
     {"name":"spr_player_hit","order":10,"path":"sprites/spr_player_hit/spr_player_hit.yy",},
+    {"name":"sPushblockArea","order":12,"path":"sprites/sPushblockArea/sPushblockArea.yy",},
     {"name":"obj_settings","order":3,"path":"objects/obj_settings/obj_settings.yy",},
     {"name":"s_pushblock","order":11,"path":"sprites/s_pushblock/s_pushblock.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
@@ -34,6 +35,7 @@
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_menu","order":1,"path":"sprites/spr_menu/spr_menu.yy",},
     {"name":"spr_player_left","order":3,"path":"sprites/spr_player_left/spr_player_left.yy",},
+    {"name":"oPushBlockArea","order":4,"path":"objects/oPushBlockArea/oPushBlockArea.yy",},
     {"name":"spr_player_kiss","order":5,"path":"sprites/spr_player_kiss/spr_player_kiss.yy",},
   ],
 }

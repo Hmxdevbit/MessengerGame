@@ -1,3 +1,11 @@
+//slide in ran direction test
+/*
+if(keyboard_check_pressed(vk_space)){
+	faceDir = choose(LEFT, RIGHT, UP, DOWN);
+	sliding = true;
+}*/
+
+
 //what state are we in
 
 if(sliding == false){
@@ -26,4 +34,32 @@ if(sliding == true){
 	var _finalSpd = min(moveSpd, _targetDist);
 	xspd = lengthdir_x(_finalSpd,_realDir );
 	yspd = lengthdir_y(_finalSpd,_realDir );
+	
+	//dont let the block move to a grid space that has a wall in it
+	if(place_meeting(targetX, targetY, obj_wall)){
+		
+		xspd = 0;
+		yspd = 0;
+	
+	}
 }
+
+//move
+
+x += xspd;
+y += yspd;
+
+//done with sliding
+if(xspd == 0 && yspd == 0){
+		sliding = false;
+}
+
+
+depth = -bbox_bottom
+
+
+
+
+
+
+
