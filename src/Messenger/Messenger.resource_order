@@ -17,10 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sIceGround","order":13,"path":"sprites/sIceGround/sIceGround.yy",},
     {"name":"TileSet2","order":1,"path":"tilesets/TileSet2/TileSet2.yy",},
     {"name":"obj_title_menu","order":2,"path":"objects/obj_title_menu/obj_title_menu.yy",},
     {"name":"Sprite10","order":7,"path":"sprites/Sprite10/Sprite10.yy",},
     {"name":"Sprite3","order":4,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"oIceGround","order":5,"path":"objects/oIceGround/oIceGround.yy",},
     {"name":"tower","order":8,"path":"sprites/tower/tower.yy",},
     {"name":"spr_house_tiles","order":6,"path":"sprites/spr_house_tiles/spr_house_tiles.yy",},
     {"name":"o_block","order":3,"path":"objects/o_block/o_block.yy",},
@@ -37,5 +39,6 @@
     {"name":"spr_player_left","order":3,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"oPushBlockArea","order":4,"path":"objects/oPushBlockArea/oPushBlockArea.yy",},
     {"name":"spr_player_kiss","order":5,"path":"sprites/spr_player_kiss/spr_player_kiss.yy",},
+    {"name":"sButton","order":14,"path":"sprites/sButton/sButton.yy",},
   ],
 }
