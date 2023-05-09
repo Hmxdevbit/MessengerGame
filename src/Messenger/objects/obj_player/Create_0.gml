@@ -18,7 +18,7 @@ interactDist = 4;
 
 //music
 bgm = audio_play_sound(Dungeon_BG, 100, true);
-audio_sound_loop_start(Dungeon_BG, 17.39);
-audio_sound_loop_end(Dungeon_BG, 49.8);
+audio_sound_loop_start(Dungeon_BG, 17.2);
+audio_sound_loop_end(Dungeon_BG, 95.7);
 
 audio_sound_loop(bgm, true);

@@ -59,6 +59,9 @@ if(place_meeting(x, y + yspd, obj_wall) == true)
 	yspd = 0;	
 }
 
+
+
+
 //move the player
 x += xspd;
 y += yspd;
