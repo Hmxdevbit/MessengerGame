@@ -1,4 +1,4 @@
-if(place_meeting(x, y, obj_player)){
+if(place_meeting(x, y, obj_player) || place_meeting(x, y, o_block)){
 	state = 1;
 } else{
 	state = 0;	
