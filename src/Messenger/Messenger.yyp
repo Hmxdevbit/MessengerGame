@@ -65,6 +65,7 @@
     {"id":{"name":"spr_player_up","path":"sprites/spr_player_up/spr_player_up.yy",},},
     {"id":{"name":"spr_player_hit","path":"sprites/spr_player_hit/spr_player_hit.yy",},},
     {"id":{"name":"oinstructions","path":"objects/oinstructions/oinstructions.yy",},},
+    {"id":{"name":"orestart","path":"objects/orestart/orestart.yy",},},
     {"id":{"name":"sPushblockArea","path":"sprites/sPushblockArea/sPushblockArea.yy",},},
     {"id":{"name":"oStairs","path":"objects/oStairs/oStairs.yy",},},
     {"id":{"name":"obj_settings","path":"objects/obj_settings/obj_settings.yy",},},

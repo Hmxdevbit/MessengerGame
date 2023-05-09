@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "Dungeon_BG.wav",
   "type": 0,
-  "volume": 0.81,
+  "volume": 0.71,
 }
